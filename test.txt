@@ -1,0 +1,7 @@
+svm
+bayesian
+decision
+ann
+fuzzy nn
+resnet-101
+hybrid algorithm
